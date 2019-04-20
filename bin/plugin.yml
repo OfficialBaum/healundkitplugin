@@ -1,0 +1,7 @@
+name: HealCommand
+version: 0.1
+main: de.officialbaum.test.main.Main
+
+commands:
+   heal:
+   kit:
